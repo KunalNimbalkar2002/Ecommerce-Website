@@ -1,0 +1,16 @@
+.nav-bar-main-div-one{
+    display: inline-block;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.sidebar-div{
+    background: rgb(5,68,104);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 225px;
+    height: 100%;
+    padding: 20px 0;
+    display: block;
+}
